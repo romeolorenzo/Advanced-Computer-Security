@@ -9,4 +9,4 @@
 <strong>ISBN</strong>: 978-1-59059-748-2<br />
 
 
-* [![	Foundations of Security](https://github.com/Apress/foundations-of-security)](https://github.com/Apress/foundations-of-security)
+* Apress Github: [![	Foundations of Security](https://github.com/Apress/foundations-of-security)](https://github.com/Apress/foundations-of-security)
